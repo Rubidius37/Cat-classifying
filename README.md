@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRubidius37%2FCat-classifying&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+
 # Cat Classifying with Pre-trained Inception v3 & SVM
 본 프로젝트는 사전 학습된 **Inception v3** CNN 모델을 사용하여 고양이 이미지의 품종(Tabby Cat, Tiger Cat)을 예측하고, 해당 예측 확률 값을 피처(Feature)로 활용하여 **SVM(Support Vector Machine)**으로 두 품종 간의 의사결정 경계(Decision Boundary)를 분류 및 시각화하는 파이토치(PyTorch) 및 머신러닝 실습 노트북입니다.
 
